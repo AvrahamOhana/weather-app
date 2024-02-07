@@ -1,5 +1,11 @@
-# React + Vite + Material UI Template
-<img src="public/react.svg" alt="react icon" width="100" height="100"> <img src="public/vite.svg" alt="vite icon" width="100" height="100"> <img src="public/mui.svg" alt="mui icon" width="100" height="100">
+# Weather App
+Weather app is a simple app that shows the current weather in a given location. The app uses the OpenWeatherMap API to get the weather data. The app is built using React, Vite, and Material-UI.
+
+
+<img src="public/app1.png" alt="screenshot1" width="70" height="100"> 
+
+<img src="public/app2.png" alt="screenshot2" width="70" height="100">
+
 ## How to use
 
 Download the example [or clone the whole project]
